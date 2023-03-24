@@ -1,5 +1,7 @@
 # Introduction to SLURM for FUNDI tutorials 2023
-This is a simple introduction to SLURM, the powerful cluster management and job scheduling system. In this beginner-friendly tutorial, you'll explore the essentials of SLURM, learn how to optimize your job allocation, and get up to speed with the tools and techniques to learn more about cluster computing. 🌐💻
+This is a simple introduction to SLURM, the powerful cluster management and job scheduling system. In this beginner-friendly tutorial, you'll explore the essentials of SLURM, learn how to optimize your job allocation, and get up to speed with the tools and techniques to learn more about cluster computing. 🌐💻.
+The default jupyter notebook github readme does not display RawNBconvert cells. Therefore, you need to clone the repo, to use all the code.
+
 We will focus more on how to run your jobs efficiently on the MPCDF's Hercules cluster (https://docs.mpcdf.mpg.de/doc/computing/clusters/systems/Radioastronomy.html). The cluster used by students in Bonn.
 
 What's Inside? 📚
