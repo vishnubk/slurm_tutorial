@@ -13,6 +13,8 @@ MPI and OpenMP Jobs: Discover how to manage and optimize parallel jobs using MPI
 
 Job Arrays: Learn about job arrays to effectively handle multiple similar jobs.
 
+Launching GPU scripts: We will compile and launch a simple CUDA script.
+
 SLURM Job Prioritization: Learn about prioritizing your jobs for faster allocation and improved performance.
 
 By the end of this tutorial, you'll have gained valuable insights into the world of SLURM and be well-equipped to leverage its capabilities for efficient cluster computing. Let's get started and unleash the power of SLURM! 🔥🚀
