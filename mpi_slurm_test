@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name=pi_calculation
+#SBATCH --output=pi_calculation_output_%j.txt
+#SBATCH --nodes=2
+#SBATCH --ntasks=48
+#SBATCH --time=00:10:00
+#SBATCH --partition=parallel.q
+#SBATCH --mail-type=END,FAIL
+
+module load intel/21.5.0 impi/2021.5 anaconda/3/2021.11 mpi4py/3.0.3
+srun python3 pi_calculation.py 10000000
